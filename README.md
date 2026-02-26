@@ -1,6 +1,6 @@
 # Hallo, ich bin Theresa! 👋
 
-Ich bin **Wirtschaftsinformatik-Studentin** an der **TH Nürnberg** mit einem starken Fokus auf der **Anwendung und Integration von Künstlicher Intelligenz**. Mich fasziniert die Frage, wie KI-Systeme reale Geschäftsprobleme lösen und nahtlos in Software-Ökosysteme integriert werden können.
+Ich bin **Wirtschaftsinformatik-Studentin** an der **TH Nürnberg** mit einem starken Fokus auf der **Anwendung und Integration von Künstlicher Intelligenz**.
 
 ---
 
@@ -17,7 +17,6 @@ Ich bin **Wirtschaftsinformatik-Studentin** an der **TH Nürnberg** mit einem st
 **KI & Data Science**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Entwicklung & Integration**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
