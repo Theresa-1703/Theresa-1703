@@ -1,4 +1,4 @@
-# Hallo, ich bin Theresa! 👋
+# Hallo! 👋
 
 Ich bin **Wirtschaftsinformatik-Studentin** an der **TH Nürnberg** mit einem starken Fokus auf der **Anwendung und Integration von Künstlicher Intelligenz**.
 
@@ -26,18 +26,8 @@ Ich bin **Wirtschaftsinformatik-Studentin** an der **TH Nürnberg** mit einem st
 ---
 
 ### 🌱 Woran ich gerade arbeite
-- 🚀 **Integration von LLMs:** Experimentieren mit RAG-Systemen (Retrieval Augmented Generation) für spezifische Wissensdatenbanken.
-- 📊 **KI im Unternehmen:** Untersuchung von Frameworks zur Bewertung der Wirtschaftlichkeit von KI-Integrationen.
-- 🎓 **Bachelor-Projekte:** Anwendung von Machine Learning Modellen auf betriebswirtschaftliche Datensätze.
+- 🚀 **Integration von LLMs:**
+- 📊 **KI im Unternehmen:** 
+- 🎓 **Bachelorarbeit:** Konzeption und prototypische Entwicklung eines KI-gestützten Systems zur Unterstützung der Erstellung projektbezogener Lebensläufe bei einem IT-Dienstleister.
 
 ---
-
-### 📫 Lass uns vernetzen!
-- 💼 [Mein LinkedIn-Profil](https://www.linkedin.com/in/DEIN-PROFIL)
-- 📝 Ich bin immer offen für Austausch über **KI-Use-Cases** und innovative Softwarelösungen!
-
----
-
-### 📊 GitHub Statistiken
-![Theresas GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN-GITHUB-NUTZERNAME&show_icons=true&theme=radical)
-![Meistgenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-GITHUB-NUTZERNAME&layout=compact&theme=radical)
