@@ -28,11 +28,3 @@ Ich bin **Wirtschaftsinformatik-Studentin** an der **TH Nürnberg** mit einem st
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-### 🌱 Woran ich gerade arbeite
-- 🚀 **Integration von LLMs**
-- 📊 **KI im Unternehmen** 
-- 🎓 **Bachelorarbeit:** Konzeption und prototypische Entwicklung eines KI-gestützten Systems zur Unterstützung der Erstellung projektbezogener Lebensläufe bei einem IT-Dienstleister.
-
----
