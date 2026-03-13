@@ -6,7 +6,6 @@
 
 * **Fokus:** Gestaltung der digitalen Transformation durch moderne IT-Strategien
 * **KI-Spezialisierung:** Implementierung von LLMs und Prompt-Engineering zur Steigerung der Unternehmenseffizienz
-<br/>
 
 ---
 
@@ -54,8 +53,6 @@
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
-<br>
-
 ---
 
 <br>
@@ -65,8 +62,6 @@
 * **Kommunikation:** Starke Teamfähigkeit und die Fähigkeit, komplexe Sachverhalte verständlich zu vermitteln
 * **Mindset:** Hohe Eigeninitiative, Empathie und kontinuierliche Weiterentwicklung
 * **Sprachen:** Deutsch (Muttersprache), Englisch (Verhandlungssicher), Latein (Latinum)
-
-<br>
 
 ---
 
