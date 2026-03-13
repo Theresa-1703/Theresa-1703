@@ -2,12 +2,19 @@
 
 **Wirtschaftsinformatik (B.Sc.)** | IT-Management | AI-Integration
 
+<br>
+
 * **Fokus:** Gestaltung der digitalen Transformation durch moderne IT-Strategien
 * **KI-Spezialisierung:** Implementierung von LLMs und Prompt-Engineering zur Steigerung der Unternehmenseffizienz
+<br/>
 
 ---
 
+<br>
+
 ### 🛠 Technical Skills
+
+<br>
 
 **Engineering & Development**
 
@@ -47,7 +54,11 @@
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
+<br>
+
 ---
+
+<br>
 
 ### 🌟 Kompetenzen & Soft Skills
 * **Analytik:** Ausgeprägte Problemlösungskompetenz und strukturierte Projektorganisation
@@ -55,8 +66,14 @@
 * **Mindset:** Hohe Eigeninitiative, Empathie und kontinuierliche Weiterentwicklung
 * **Sprachen:** Deutsch (Muttersprache), Englisch (Verhandlungssicher), Latein (Latinum)
 
+<br>
+
 ---
 
+<br>
+
 ### 📬 Kontakt
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](DEIN_LINK_HIER)
