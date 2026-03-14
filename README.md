@@ -1,6 +1,6 @@
 # Theresa Riegel
 
-**Wirtschaftsinformatik (B.Sc.)** | IT-Management | AI-Integration
+**Wirtschaftsinformatik (B.Sc.)** | IT-Management | KI-Integration
 
 <br>
 
